@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #008CBA;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #game-container {
+    display: none;
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  #scores {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .score-board {
+    border: 2px solid #008CBA;
+    padding: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    min-width: 150px;
+  }
+  
+  .score-board span:first-child {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .score-board span:last-child {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  #timer {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  #timer span {
+    color: #008CBA;
+  }
+  
+  .winner {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 40px;
+  }
