@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Used Apple Airpods",
+        "price": "50",
+        "description": "Battery life is not great"
+    },
+    {
+        "id": 2,
+        "type": "doc",
+        "value": "hello world"
+    },
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": "10",
+        "description": "A classic novel set in the 1930s"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": "8",
+        "description": "A dystopian novel depicting a totalitarian regime"
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": "12",
+        "description": "A story of wealth, love, and decadence in the Jazz Age"
+    },
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "price": "15",
+        "description": "A powerful drama set in a prison"
+    },
+    {
+        "id": 2,
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "price": "12",
+        "description": "A mind-bending science fiction heist film"
+    },
+    {
+        "id": 3,
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "price": "10",
+        "description": "An iconic crime film with nonlinear storytelling"
+    },
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Camry",
+        "price": "25000",
+        "description": "A reliable and fuel-efficient sedan"
+    },
+    {
+        "id": 2,
+        "brand": "Ford",
+        "model": "Mustang",
+        "price": "35000",
+        "description": "A classic American muscle car"
+    },
+    {
+        "id": 3,
+        "brand": "Tesla",
+        "model": "Model S",
+        "price": "80000",
+        "description": "An electric luxury sedan with impressive performance"
+    }
+]
